@@ -1,3 +1,4 @@
+// 此代码的效果是灯带全亮的流彩效果
 #include <NeoPixelBus.h>
 #include <NeoPixelAnimator.h>
 
